@@ -1,2 +1,2 @@
-periodic-table-full
+Periodic Table Study Aid
 ===================
