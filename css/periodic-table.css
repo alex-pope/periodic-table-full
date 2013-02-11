@@ -1,0 +1,140 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: middle;
+}
+
+body {
+    font-family: sans-serif;
+    font-size: 12px;
+}
+
+div.atomicName, .atomicNameSE {
+}
+
+div.atomicNumber, .atomicNumberSE {
+    margin-bottom: 8px;
+}
+
+div.atomicSymbol, .atomicSymbolSE {
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 8px;
+}
+
+div.container, .containerSE {
+}
+
+div.content {
+    display: inline-block;
+    padding: 16px;
+}
+
+form.options {
+    margin-bottom: 16px;
+}
+
+span.checkboxes {
+    display: inline-block;
+    float: left;
+    margin-right: 16px;
+}
+
+table.periodic, .periodicSE {
+    border-collapse: collapse;
+    border-spacing: 0;
+    font: 11px sans-serif;
+    text-align: center;
+}
+
+td.actinide {
+    background-color: #ff99cc;
+}
+
+td.alkali {
+    background-color: #ff6666;
+}
+
+td.alkaliEarth {
+    background-color: #ffdead;
+}
+
+td.atomicElement {
+    border: 1px solid #808080;
+    height: 84px;
+    min-width: 84px;
+    width: 84px;
+}
+
+td.atomicGroup {
+    font-weight: bold;
+    padding-bottom: 8px;
+    text-align: center;
+    vertical-align: bottom;
+}
+
+td.atomicPeriod {
+    font-weight: bold;
+    padding-right: 8px;
+    text-align: right;
+    vertical-align: middle;
+}
+
+td.atomicRange {
+    font-weight: bold;
+    text-align: center;
+    vertical-align: middle;
+}
+
+td.empty {
+    border: 0;
+    height: 16px;
+    min-width: 32px;
+    width: 32px;
+}
+
+td.halogen {
+    background-color: #ffff99;
+}
+
+td.lanthanide {
+    background-color: #ffbfff;
+}
+
+td.metalloid {
+    background-color: #cccc99;
+}
+
+td.nobleGas {
+    background-color: #c0ffff;
+}
+
+td.nonMetal {
+    background-color: #a0ffa0;
+}
+
+td.postTransition {
+    background-color: #cccccc;
+}
+
+td.transition {
+    background-color: #ffc0c0;
+}
+
+td.unknown {
+    background-color: #e8e8e8;
+}
