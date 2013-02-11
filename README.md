@@ -13,3 +13,5 @@ Some thing I would like to add:
 * Color legend for the different groups of elements
 * Instructions
 * Change the displayed information from the static position by the options to a floating \<div\> over each element
+
+A working demonstration can be viewed at http://alex-pope.github.com/periodic-table-full/.
