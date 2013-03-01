@@ -1,6 +1,8 @@
 Periodic Table Study Aid
 ========================
 
+![ScreenShot](https://raw.github.com/alex-pope/periodic-table-full/master/img/periodic-table.png)
+
 A study aid to help students learn their periodic table through an HTML/CSS/Javascript "web app".
 
 Features:
